@@ -16,6 +16,12 @@ public class Login {
             for (int j = 0; j < 10; j++) {
                 for (int k = 0; k < 10; k++) {
                     for (int l = 0; l < 10; l++) {
+                        
+                        switch(j){
+                            case 1:
+                                System.out.println(",kcdgh");
+                        }
+                        
                     }
                 }
             }
