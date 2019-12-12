@@ -1,0 +1,1 @@
+src/java/com/xyz/app/servlets :rsrc\java\com\xyz\app\servlets

@@ -1,0 +1,139 @@
+Environment variables:
+  - =::=::\
+  - =D:=D:\Workspace\experiments\sample-application
+  - ALLUSERSPROFILE=C:\ProgramData
+  - ANT_HOME=C:\Program Files (x86)\apache-ant-1.9.14
+  - APPDATA=C:\Users\alwin\AppData\Roaming
+  - CLIENTNAME=0050PR5790114
+  - COMPUTERNAME=DESKTOP-NT5IUP6
+  - ComSpec=C:\Windows\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - DriverData=C:\Windows\System32\Drivers\DriverData
+  - ERROR_CODE=0
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\alwin
+  - JAVA_EXEC="D:\jdk1.8.0_171\bin\java.exe"
+  - JAVA_HOME=C:\Program Files (x86)\Java\jdk1.7.0_51
+  - JAVA_OPTS=-Xmx1024m -Xms128m
+  - JRE_HOME=C:\Program Files (x86)\Java\jre7
+  - LOCALAPPDATA=C:\Users\alwin\AppData\Local
+  - LOGONSERVER=\\FEDDR02
+  - NUMBER_OF_PROCESSORS=4
+  - OS=Windows_NT
+  - OneDrive=C:\Users\alwin\OneDrive
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 11, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=9e0b
+  - PROJECT_HOME=D:\Workspace\experiments\sample-application
+  - PROMPT=$P$G
+  - PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+  - PUBLIC=C:\Users\Public
+  - Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\FingerprintSensors\SMARTCHIP_DLL;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Java\jdk1.7.0_51\bin;D:\Workspace\App Servers and tools\apache-maven-3.6.2-bin\apache-maven-3.6.2\bin;C:\Users\alwin\AppData\Roaming\npm;C:\Users\alwin\AppData\Local\Programs\Microsoft VS Code\bin;D:\Workspace\experiments\webpack-demo\node_modules\webpack-cli\bin;C:\Program Files (x86)\apache-ant-1.9.14\bin;C:\Users\alwin\AppData\Local\Microsoft\WindowsApps;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Windows\SysWOW64\psexec;C:\Python27;C:\Python27\Scripts;D:\Workspace\App Servers and tools\sonar\sonar-runner-2.4\bin;
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SCInstalled=1
+  - SESSIONNAME=RDP-Tcp#10
+  - SONAR_RUNNER_HOME=D:\Workspace\App Servers and tools\sonar\sonar-runner-2.4\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\Windows
+  - TEMP=C:\Users\alwin\AppData\Local\Temp
+  - TMP=C:\Users\alwin\AppData\Local\Temp
+  - USERDNSDOMAIN=FEDERALBANK.CO.IN
+  - USERDOMAIN=FEDERALBANK
+  - USERDOMAIN_ROAMINGPROFILE=FEDERALBANK
+  - USERNAME=alwin
+  - USERPROFILE=C:\Users\alwin
+  - windir=C:\Windows
+System properties:
+  - ROOT_LOGGER_LEVEL=DEBUG
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=D:\Workspace\App Servers and tools\sonar\sonar-runner-2.4\bin\..\lib\sonar-runner-dist-2.4.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=D:\jdk1.8.0_171\jre\lib\endorsed
+  - java.ext.dirs=D:\jdk1.8.0_171\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+  - java.home=D:\jdk1.8.0_171\jre
+  - java.io.tmpdir=C:\Users\alwin\AppData\Local\Temp\
+  - java.library.path=D:\jdk1.8.0_171\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\FingerprintSensors\SMARTCHIP_DLL;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\PuTTY\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Java\jdk1.7.0_51\bin;D:\Workspace\App Servers and tools\apache-maven-3.6.2-bin\apache-maven-3.6.2\bin;C:\Users\alwin\AppData\Roaming\npm;C:\Users\alwin\AppData\Local\Programs\Microsoft VS Code\bin;D:\Workspace\experiments\webpack-demo\node_modules\webpack-cli\bin;C:\Program Files (x86)\apache-ant-1.9.14\bin;C:\Users\alwin\AppData\Local\Microsoft\WindowsApps;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Windows\SysWOW64\psexec;C:\Python27;C:\Python27\Scripts;D:\Workspace\App Servers and tools\sonar\sonar-runner-2.4\bin;;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_171-b11
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_171
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.171-b11
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - project.home=D:\Workspace\experiments\sample-application
+  - runner.home=D:\Workspace\App Servers and tools\sonar\sonar-runner-2.4\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=D:\jdk1.8.0_171\jre\lib\resources.jar;D:\jdk1.8.0_171\jre\lib\rt.jar;D:\jdk1.8.0_171\jre\lib\sunrsasign.jar;D:\jdk1.8.0_171\jre\lib\jsse.jar;D:\jdk1.8.0_171\jre\lib\jce.jar;D:\jdk1.8.0_171\jre\lib\charsets.jar;D:\jdk1.8.0_171\jre\lib\jfr.jar;D:\jdk1.8.0_171\jre\classes
+  - sun.boot.library.path=D:\jdk1.8.0_171\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonar.runner.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=cp437
+  - sun.stdout.encoding=cp437
+  - user.country=IN
+  - user.dir=D:\Workspace\experiments\sample-application
+  - user.home=C:\Users\alwin
+  - user.language=en
+  - user.name=alwin
+  - user.script=
+  - user.timezone=Asia/Calcutta
+  - user.variant=
+SonarQube plugins:
+  - SonarC# 6.7.1.4347 (csharp)
+  - SonarPython 1.9.0.2010 (python)
+  - SonarJava 5.1.0.13090 (java)
+  - Flex 2.3 (flex)
+  - SonarQube :: Plugins :: SCM :: Git 1.3.0.869 (scmgit)
+  - SonarXML 1.4.3.1027 (xml)
+  - SonarPHP 2.12.1.3018 (php)
+  - SonarTS 1.5.0.2122 (typescript)
+  - SonarQube :: Plugins :: SCM :: SVN 1.6.0.860 (scmsvn)
+  - SonarJS 4.0.0.5862 (javascript)
+Global properties:
+  - sonar.core.id=AW74lU2ExTOLjnXSW9Mr
+  - sonar.core.startTime=2019-12-12T15:05:18+0530
+Settings for module: 468246c8b4e48f68f18d502a1dc9e429f4316012
+  - sonar.host.url=http://localhost:9000
+  - sonar.java.binaries=build/web/WEB-INF/classes
+  - sonar.projectBaseDir=D:\Workspace\experiments\sample-application\.
+  - sonar.projectKey=468246c8b4e48f68f18d502a1dc9e429f4316012
+  - sonar.projectName=sample-application
+  - sonar.projectVersion=1.0
+  - sonar.qualitygate=2
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=src
+  - sonar.verbose=true
+  - sonar.working.directory=D:\Workspace\experiments\sample-application\.\.sonar
