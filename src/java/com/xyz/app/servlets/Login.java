@@ -11,28 +11,28 @@ package com.xyz.app.servlets;
  */
 public class Login {
 
-    public void dummyMethod() {
-        for (int i = 0; i < 10; i++) {
-            for (int j = 0; j < 10; j++) {
-                for (int k = 0; k < 10; k++) {
-                    for (int l = 0; l < 10; l++) {
-
-                        switch (j) {
-                            case 1:
-                                System.out.println(",kcdgh");
-                        }
-
-                    }
-                }
-            }
-        }
-    }
-
-    int foo(int a) {
-        int b = 12;
-        if (a == 1) {
-            return b;
-        }
-        return b;  // Noncompliant
-    }
+//    public void dummyMethod() {
+//        for (int i = 0; i < 10; i++) {
+//            for (int j = 0; j < 10; j++) {
+//                for (int k = 0; k < 10; k++) {
+//                    for (int l = 0; l < 10; l++) {
+//
+//                        switch (j) {
+//                            case 1:
+//                                System.out.println(",kcdgh");
+//                        }
+//
+//                    }
+//                }
+//            }
+//        }
+//    }
+//
+//    int foo(int a) {
+//        int b = 12;
+//        if (a == 1) {
+//            return b;
+//        }
+//        return b;  // Noncompliant
+//    }
 }
